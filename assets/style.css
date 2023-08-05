@@ -5,12 +5,12 @@
 }
 /* Variable declaration  */
 :root {
-  --purple: #b41489;
-  --light-blue: #9e61cd;
+  --purple: #ee0c3dfb;
+  --light-blue: #8edaf1;
   --light-purple: #d3a4ee;
 }
 body {
-  background-color: var(--light-purple);
+  background-color: var(--light-blue);
   font-family: sans-serif;
 }
 .container {
@@ -61,7 +61,7 @@ button {
   color: white;
   padding: 18px;
   border:1px solid #b41489;
-  border-radius: 3px 20px;
+  border-radius: 20px 20px;
   width: 250px;
   font-size: 18px;
   cursor: pointer;
