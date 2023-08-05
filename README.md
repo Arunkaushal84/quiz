@@ -25,7 +25,7 @@ THEN I can save my initials and score
 
 
 The URL of the functional, deployed application:-
-https://amritpal-kaur0.github.io/CodingQuiz/index.html
+[(https://arunkaushal84.github.io/quiz/)]
 
 
 
