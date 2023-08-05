@@ -30,7 +30,7 @@ The URL of the functional, deployed application:-
 
 
 The URL of the GitHub repository:-
-https://github.com/Amritpal-Kaur0/CodingQuiz
+[(https://github.com/Arunkaushal84/quiz)]
 
 
 
