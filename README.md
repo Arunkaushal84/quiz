@@ -39,9 +39,3 @@ Screenshot of Deployed application-
 
 
   
-
-
-
-## MIT License
-
-Copyright (c) 2023 Amritpal-Kaur0
